@@ -6,7 +6,7 @@ The main operations we are gonna cover are:
 
 
 
-1.   Query images, filter and mask
+1.   Query, filter, mask and visualize (geemap) images
 2.   Map function over the image collection
 3.   Apply reduce function to summarize data over time and space
 4.   Import/export data
